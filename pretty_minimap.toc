@@ -1,0 +1,15 @@
+## Interface: 30300
+## Title: |cff00ffff*|r |cfffff0f5pretty_minimap|r
+## Notes: |cffcaf7faMinimap addon from pretty stuff|r
+## Notes-ruRU: |cffcaf7faМиникарта из прекрасного стаффа|r
+## Version: 1.0
+## Author: s0high
+## OptionalDeps: Blizzard_TimeManager
+
+config.lua
+atlas.lua
+core.lua
+map.lua
+time.lua
+auras.lua
+init.lua

@@ -115,7 +115,7 @@ MinimapCluster:EnableMouse(false)
 MinimapCluster:ClearAllPoints()
 MinimapCluster:SetPoint('TOPRIGHT', -24, -40)
 MinimapCluster:SetHitRectInsets(30, 10, 0, 30)
-MinimapCluster:SetFrameStrata('LOW')
+MinimapCluster:SetFrameStrata('BACKGROUND')
 MinimapBackdrop:EnableMouse(false)
 
 -- MiniMap

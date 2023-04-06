@@ -13,7 +13,7 @@ local WHITE_LIST = {
 	'MiniMapBattlefieldFrame','MiniMapTrackingButton','MiniMapMailFrame','HelpOpenTicketButton',
 	'GatherMatePin','HandyNotesPin','TimeManagerClockButton','Archy','GatherNote','MinimMap',
 	'Spy_MapNoteList_mini','ZGVMarker','poiWorldMapPOIFrame','WorldMapPOIFrame','QuestMapPOI',
-	'GameTimeFrame'
+	'GameTimeFrame','ZygorGuidesViewerMapIcon'
 }
 local BUTTON_POINTS = {}
 
